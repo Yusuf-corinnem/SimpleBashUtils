@@ -16,3 +16,10 @@
 - grep:
   - Перейдите в папку grep
   - Вызовите команду `sh functional_test_s21_grep.sh`(только если сделали build)
+
+## Run
+- Для запуска программы используйте следующие шаблоны ввода:
+- cat:
+  - "usage: ./cat [-benstuv] [file ...]"
+- grep:
+  - "usage: ./grep [-ivclnhso] [-e pattern] [-f file] [pattern] [file ...]"
