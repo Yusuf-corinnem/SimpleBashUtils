@@ -20,6 +20,6 @@
 ## Run
 - Для запуска программы используйте следующие шаблоны ввода:
 - cat:
-  - "usage: ./cat [-benstuv] [file ...]"
+  - "usage: ./s21_cat [-benstuv] [file ...]"
 - grep:
-  - "usage: ./grep [-ivclnhso] [-e pattern] [-f file] [pattern] [file ...]"
+  - "usage: ./s21_grep [-ivclnhso] [-e pattern] [-f file] [pattern] [file ...]"
