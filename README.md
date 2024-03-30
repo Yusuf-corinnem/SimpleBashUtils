@@ -23,3 +23,6 @@
   - "usage: ./s21_cat [-benstuv] [file ...]"
 - grep:
   - "usage: ./s21_grep [-ivclnhso] [-e pattern] [-f file] [pattern] [file ...]"
+
+## Cat work
+![](https://github.com/Yusuf-corinnem/SimpleBashUtils/blob/main/cat%20build%20and%20run.gif)
