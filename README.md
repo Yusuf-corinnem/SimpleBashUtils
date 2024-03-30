@@ -26,3 +26,6 @@
 
 ## Cat work
 ![](https://github.com/Yusuf-corinnem/SimpleBashUtils/blob/main/cat%20build%20and%20run.gif)
+
+## Grep work
+![](https://github.com/Yusuf-corinnem/SimpleBashUtils/blob/main/grep%20build%20and%20run.gif)
